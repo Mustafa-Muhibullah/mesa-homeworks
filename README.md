@@ -1,3 +1,3 @@
-# Demon
+# MESA Homeworks for Stellar Evolution
 
-Some description.
+This repository hosts jupyter notebooks for MESA homewrok assignments for the Stellar Evolution course at the University of Alabama.
